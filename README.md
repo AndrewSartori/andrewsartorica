@@ -1,2 +1,0 @@
-# andrewsartorica
-Personal website
