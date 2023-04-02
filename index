@@ -1,15 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Portfolio</title>
-    <!-- Add your CSS files or inline styles here -->
-    <link rel="stylesheet" href="styles.css">
-    <!-- Add your JavaScript files or inline scripts here -->
-    <script src="script.js" defer></script>
-</head>
-<body>
-test
-</body>
-</html>
+theme: minima
